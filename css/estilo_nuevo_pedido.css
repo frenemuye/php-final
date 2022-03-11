@@ -1,0 +1,28 @@
+
+
+body{
+		background:rgb(190, 247, 236);
+}
+
+#principal{
+	border: 1px solid black;
+	padding: 10px;
+	border-radius:10px;
+	background:rgb(190, 247, 236);
+	width: 350px;
+	height: 669px;
+	margin: 0 auto;
+	box-shadow: 10px 5px 5px black;
+}
+
+#consulta{	
+	border: 1px solid black;
+	padding: 10px;
+	border-radius:10px;
+	background:rgb(190, 247, 236);
+	width: 350px;
+	height: 199px;
+	margin: 0 auto;
+	box-shadow: 10px 5px 5px black;
+}
+

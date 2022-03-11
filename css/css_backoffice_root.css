@@ -1,0 +1,97 @@
+body{
+	background:rgb(220, 247, 248);
+}
+
+form{
+	border: 1px solid black;
+	padding: 10px;
+	border-radius:10px;
+	background:rgb(190, 247, 236);
+	width: 350px;
+	height: 379px;
+	margin: 0 auto;
+	box-shadow: 10px 5px 5px black;
+}
+
+#contenedor1{
+	background:rgb(190, 247, 236);
+	border: 1px solid black;
+	width: 320px;
+	margin: 40px auto;
+	box-shadow: 10px 5px 5px black;
+	border-radius:10px;
+	padding: 10px;
+}
+
+.menu{
+	padding-top:10px;
+	border:blue solid 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ver{
+	border: 3px solid #6699cc; /*color de borde*/ 
+	border-radius: 6px; /* bordes curvos*/
+	margin: 12px 12px; /* espacio alrededor del botón*/  /* top arriba, bottom abajo left y right*/	
+	background-color: #b3cce6; /* fondo del botón*/
+	color: #72766a; /*color del texto*/
+	text-decoration: none;/*sin linea del link*/
+	padding: 5px;/*del borde al content*/
+}
+
+.ver:hover{
+	border: 3px solid #0042ff; /*borde azul del botón */ 
+	border-radius: 6px; /* hace que el botón pase de 
+	bordes cuadrados a tener unos bordes curvos*/
+	margin: 12px 12px; /* espacio alrededor de
+	modificar*/  /* top arriba, bottom abajo left y right*/	
+	background-color: #6699cc; /* fondo del botón*/
+	color: #ffffff; /*color del texto*/
+	text-decoration: none;/*sin linea del link*/
+	padding: 5px;/*del borde al content*/
+}
+
+.advertencia{
+	border: 3px solid #6699cc; /*color de borde*/ 
+	border-radius: 6px; /* bordes curvos*/
+	margin: 12px 12px; /* espacio alrededor del botón*/  /* top arriba, bottom abajo left y right*/	
+	background-color: #e6b3b7; /* fondo del botón*/
+	color: #72766a; /*color del texto*/
+	text-decoration: none;/*sin linea del link*/
+	padding: 5px;/*del borde al content*/
+}
+
+.advertencia:hover{
+	border: 3px solid #0042ff; /*borde azul del botón */ 
+	border-radius: 6px; /* hace que el botón pase de 
+	bordes cuadrados a tener unos bordes curvos*/
+	margin: 12px 12px; /* espacio alrededor de
+	modificar*/  /* top arriba, bottom abajo left y right*/	
+	background-color: #ec3d3d; /* fondo del botón*/
+	color: #ffffff; /*color del texto*/
+	text-decoration: none;/*sin linea del link*/
+	padding: 5px;/*del borde al content*/
+}
